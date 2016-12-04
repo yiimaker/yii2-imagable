@@ -1,0 +1,30 @@
+{
+    "name": "yiimaker/yii2-imagable",
+    "description": "Image saving extension for yii2",
+    "keywords": ["yii2", "image", "save", "thumbnail"],
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Ruslan Saiko",
+            "email": "ruslan.saiko.dev@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/yiimaker/yii2-imagable"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": ">=2.0.4",
+        "yiisoft/yii2-imagine": "^2.0"
+    },
+    "require-dev": {
+        "yiisoft/yii2-codeception" : "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "ymaker\\imagable\\": ""
+        }
+    }
+}
