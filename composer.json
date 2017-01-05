@@ -3,6 +3,10 @@
     "description": "Image saving extension for yii2",
     "keywords": ["yii2", "image", "save", "thumbnail"],
     "type": "yii2-extension",
+    "support": {
+        "issues": "https://github.com/yiimaker/yii2-imagable/issues?state=open",
+        "source": "https://github.com/yiimaker/yii2-imagable"
+    },
     "authors": [
         {
             "name": "Ruslan Saiko",
