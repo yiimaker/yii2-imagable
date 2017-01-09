@@ -2,7 +2,7 @@
     "name": "yiimaker/yii2-imagable",
     "description": "Image saving extension for yii2",
     "keywords": ["yii2", "image", "save", "thumbnail"],
-    "type": "yii2-extension",
+    "type": "BSD-3-Clause",
     "support": {
         "issues": "https://github.com/yiimaker/yii2-imagable/issues?state=open",
         "source": "https://github.com/yiimaker/yii2-imagable"
