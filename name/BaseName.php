@@ -18,7 +18,7 @@ abstract class BaseName extends \yii\base\Object
     /**
      * @var string Full path to the category
      */
-    public $pathToCatory;
+    public $pathToCategory;
 
     /**
      * @param $name string
