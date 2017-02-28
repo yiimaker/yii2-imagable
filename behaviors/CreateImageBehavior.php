@@ -90,7 +90,7 @@ class CreateImageBehavior extends Behavior
         $newPath = implode(DIRECTORY_SEPARATOR, [$saveImagePath, $category]);
 
         // Specifies the full path to the category, for the derived class from BaseName
-        $this->name->pathToCatory = $newPath;
+        $this->name->pathToCategory = $newPath;
 
         // New image name created with class BaseName
         $imageName = $name;
